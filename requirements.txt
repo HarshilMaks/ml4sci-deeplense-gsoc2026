@@ -3,4 +3,4 @@ torchvision
 scikit-learn
 matplotlib
 seaborn
-
+ipykernel
