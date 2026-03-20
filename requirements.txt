@@ -9,4 +9,5 @@ pydantic
 lenstronomy
 pyHalo
 astropy
-DeepLenseSim
+colossus
+mcfit
