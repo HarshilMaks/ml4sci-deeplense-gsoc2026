@@ -4,3 +4,9 @@ scikit-learn
 matplotlib
 seaborn
 ipykernel
+pydantic-ai
+pydantic
+lenstronomy
+pyHalo
+astropy
+DeepLenseSim
